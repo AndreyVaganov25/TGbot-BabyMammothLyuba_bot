@@ -1,7 +1,8 @@
 # Мамонтенок Люба - Telegram Бот для Консультаций по Арктической Зоне
 
 Ссылка на проект @BabyMammothLyuba_bot
-![Скриншот к проекту]([https://example.com/image.png](https://github.com/AndreyVaganov25/TGbot-BabyMammothLyuba_bot/blob/main/2025-06-19_17-59-32.png?raw=true))
+
+![Скриншот к проекту]([https://example.com/image.png](https://github.com/AndreyVaganov25/TGbot-BabyMammothLyuba_bot/blob/main/2025-06-19_17-59-32.png))
 
 ## О проекте
 
