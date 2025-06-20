@@ -2,7 +2,7 @@
 
 Ссылка на проект @BabyMammothLyuba_bot
 
-![Иллюстрация к проекту][https://example.com/image.png](https://github.com/AndreyVaganov25/TGbot-BabyMammothLyuba_bot/blob/main/2025-06-19_17-59-32.png?raw=true)
+![Иллюстрация к проекту](https://github.com/AndreyVaganov25/TGbot-BabyMammothLyuba_bot/blob/main/2025-06-19_17-59-32.png?raw=true)
 
 ## О проекте
 
